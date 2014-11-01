@@ -1,0 +1,2 @@
+xldcdinfo.o: xldcdinfo.c XLDCDDABackend.h
+XLDCDDABackend.o: XLDCDDABackend.c XLDCDDABackend.h
